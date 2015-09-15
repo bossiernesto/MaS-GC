@@ -1,2 +1,3 @@
 # gc-in-c
-GC examples in C
+
+GC mark and sweep used to interface later with the D language for use in low level projects
